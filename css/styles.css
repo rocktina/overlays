@@ -1,0 +1,16 @@
+/* Base layout styles */
+.layout {
+    background-color: #ffbd06;
+    padding: 21px 24px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    text-align: center; /* centers the image */
+}
+
+/* Image styles */
+.layout img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10px;
+}
